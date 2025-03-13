@@ -3,9 +3,6 @@
 
 An Application for Question Paper Generation for different subjects including Data Structures and Algorithms, Operating Systems and Database Management System. University Professors can leverage this application to set Mid Semester Exam Paper, Final Semester Exam Paper, Unit Tests, Topic-wise Quiz or Custom  Question Paper.
 
-## Demo Video
-[Watch on YouTube](https://youtu.be/Qc3V_ap4Ly4)
-
 ## Install
 ```bash
 git clone https://github.com/harshdhamecha/Question-Paper-Generator.git
